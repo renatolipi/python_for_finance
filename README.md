@@ -39,4 +39,9 @@ Install all the necessary libraries:
 $ pip install -r requirements.txt
 ```
 
+Start Jupyter Notebook:
+
+```
+$ jupyter notebook
+```
 
